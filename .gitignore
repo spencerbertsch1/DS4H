@@ -136,3 +136,5 @@ dmypy.json
 
 # we add this because the physical activity file is too big to version using git
 PAXDAY_H.XPT
+DPQ_H.XPT
+DEMO_H.XPT
